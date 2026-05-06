@@ -1,0 +1,6 @@
+{
+  "name": "claude-document-nudge",
+  "version": "0.1.0",
+  "description": "Nudges Claude to document decisions, todos, sprints, and handovers into a planning/ tree by default. Ships an installer command and a scaffold command.",
+  "author": "Daniel Rosehill"
+}
